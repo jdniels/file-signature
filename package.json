@@ -1,5 +1,5 @@
 {
-  "name": "file-signataru",
+  "name": "file-signatur",
   "version": "1.0.0",
   "description": "Simple Package to detect Mimetype from base64 string",
   "main": "lib/index.js",
