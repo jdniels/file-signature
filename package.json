@@ -1,0 +1,21 @@
+{
+  "name": "file-signataru",
+  "version": "1.0.0",
+  "description": "Simple Package to detect Mimetype from base64 string",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "contributors": [
+    {
+      "name": "Juan Daniel",
+      "email": "jdniels100@gmail.com"
+    }
+  ],
+  "keywords": ["mimetype", "detect mimetype"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
